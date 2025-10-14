@@ -1,9 +1,11 @@
 ## Antonio Vitório Almeida Silva
     Formado em Análise e Desenvolvimento de Sistemas e Técnico em Redes de Computadores.
-    
-    Tenho experiência na área de T.I., com foco em suporte, infraestrutura e melhoria contínua de ambientes tecnológicos.
 
-    Atualmente, estou retornando para a área de programação e aprimorando minhas habilidades em desenvolvimento de software.
+    Tenho experiência na área de T.I., com foco em suporte, 
+    infraestrutura e melhoria contínua de ambientes tecnológicos.
+
+    Atualmente, estou retornando para a área de programação e 
+    aprimorando minhas habilidades em desenvolvimento de software.
 
 ## TECNOLOGIAS E FERRAMENTAS
     - Linux

@@ -49,5 +49,6 @@ Atuação em suporte técnico remoto e presencial, com foco em:
 ---
 
  ## CONTATOS
-+  [Linkedin](https://www.linkedin.com/in/antonio-vitorio/)  
-+   [WhatsApp](https://wa.me/<71984709085>)
++  🔗  [Linkedin](https://www.linkedin.com/in/antonio-vitorio/)  
++   💬 [WhatsApp](https://wa.me/<71984709085>)
++ 📧 [Email](https://outlook.live.com/mail/deeplink/compose?to=antonio.vitorio.7@outlook.com)

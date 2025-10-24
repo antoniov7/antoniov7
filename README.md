@@ -3,9 +3,34 @@
 🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
 🔧 **Técnico em Redes de Computadores**
 
-Tenho experiência na área de **Tecnologia da Informação**, com foco em **suporte técnico**, **infraestrutura** e **melhoria contínua** de ambientes tecnológicos.  
+<div align="center">
 
-Atualmente, estou **retornando para a área de programação** e **aprimorando minhas habilidades em desenvolvimento de software**.
+  <!-- Estatísticas principais -->
+  <a href="https://github.com/antoniov7">
+    <img height="180em" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=antoniov7&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="180em" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniov7&layout=compact&langs_count=16&theme=cobalt"/>
+  </a>
+
+  <!-- Streak (sequência de commits) -->
+  <br><br>
+  <a href="https://github.com/antoniov7">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=antoniov7&theme=cobalt&hide_border=false&background=002147&ring=00BFFF&fire=00BFFF&currStreakLabel=FFFFFF"/>
+  </a>
+
+  <!-- Contatos -->
+  <br><br>
+  <a href="https://www.linkedin.com/in/antonio-vitorio/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:antoniovitorio.7@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/✉️%20Outlook-%23005A9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
+  <a href="https://wa.me/5571999999999" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+
+</div>
+
 
 ---
 
@@ -50,18 +75,6 @@ Atuação em suporte técnico remoto e presencial, com foco em:
 - 🚀 Apoio na padronização e melhoria contínua dos equipamentos  
 
 ---
-
-## 📫 Contatos
-
-<a href="https://www.linkedin.com/in/antonio-vitorio/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="mailto:antoniovitorio.7@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/✉️%20Outlook-%23005A9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-</a>
-<a href="https://wa.me/5571999999999" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-</a>
 
 ---
 

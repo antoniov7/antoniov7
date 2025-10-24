@@ -1,14 +1,15 @@
-## Antonio Vitório Almeida Silva
-Formado em Análise e Desenvolvimento de Sistemas e Técnico em Redes de Computadores.
+## 👨‍💻 Antonio Vitório Almeida Silva
 
-Tenho experiência na área de T.I., com foco em suporte, 
-infraestrutura e melhoria contínua de ambientes tecnológicos.
+🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
+🔧 **Técnico em Redes de Computadores**
 
-Atualmente, estou retornando para a área de programação e 
-aprimorando minhas habilidades em desenvolvimento de software.
+Tenho experiência na área de **Tecnologia da Informação**, com foco em **suporte técnico**, **infraestrutura** e **melhoria contínua** de ambientes tecnológicos.  
 
+Atualmente, estou **retornando para a área de programação** e **aprimorando minhas habilidades em desenvolvimento de software**.
 
-## TECNOLOGIAS E FERRAMENTAS
+---
+
+## 🧰 Tecnologias e Ferramentas
 - 🐧 **Linux**  
 - 🪟 **Windows Server**  
 - 🧱 **Active Directory**  
@@ -22,19 +23,21 @@ aprimorando minhas habilidades em desenvolvimento de software.
 
 ---
 
-
-# Objetivos / Em Andamento
+## 🎯 Objetivos / Em Andamento
 - 🧠 **Lógica de Programação**  
 - ☁️ **Cloud Computing (inicial)**  
 - 🧩 **Git e GitHub**  
 - 💻 **Fundamentos de C#**  
 - 💬 **Soft Skills e Comunicação Profissional**  
 
-🎯 **Objetivo:** consolidar meus conhecimentos em programação e tecnologias modernas para atuar em **projetos desafiadores na área de T.I.**
+🎯 **Objetivo:** consolidar meus conhecimentos em **programação** e **tecnologias modernas** para atuar em **projetos desafiadores na área de T.I.**
 
-## Experiências
-💼 Jovem Aprendiz em Tecnologia da Informação  
-**Grupo Terra Firme** — *jun/2024 · set/2025 · Salvador/BA · Presencial*  
+---
+
+## 💼 Experiência Profissional
+
+**Jovem Aprendiz em Tecnologia da Informação**  
+📍 *Grupo Terra Firme — jun/2024 · set/2025 · Salvador/BA · Presencial*  
 
 Atuação em suporte técnico remoto e presencial, com foco em:
 
@@ -48,12 +51,23 @@ Atuação em suporte técnico remoto e presencial, com foco em:
 
 ---
 
- ## CONTATOS
+## 📫 Contatos
 
-  <a href="https://www.linkedin.com/in/antonio-vitorio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/antonio-vitorio/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 <a href="mailto:antoniovitorio.7@outlook.com" target="_blank">
   <img src="https://img.shields.io/badge/✉️%20Outlook-%23005A9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
 </a>
+<a href="https://wa.me/5571999999999" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+</a>
 
+---
 
-
+<div align="center">
+  <a href="https://github.com/antoniov7">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniov7&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniov7&layout=compact&langs_count=16&theme=cobalt"/>
+  </a>
+</div>

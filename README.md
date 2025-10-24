@@ -3,6 +3,8 @@
 🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
 🔧 **Técnico em Redes de Computadores**
 
+Atualmente, estou **retornando para a área de programação** e **aprimorando minhas habilidades em desenvolvimento de software**.
+
 <div align="center">
 
   <!-- Container flex para stats lado a lado -->
@@ -28,9 +30,6 @@
   </a>
   <a href="mailto:antoniovitorio.7@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/✉️%20Outlook-%23005A9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-  </a>
-  <a href="https://wa.me/5571984709085" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
 
 </div>

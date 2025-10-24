@@ -5,12 +5,13 @@
 
 <div align="center">
 
-  <!-- Estatísticas principais -->
+  <!-- GitHub Stats e Most Used Languages lado a lado -->
   <a href="https://github.com/antoniov7">
     <img height="180em" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=antoniov7&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
     <img height="180em" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniov7&layout=compact&langs_count=16&theme=cobalt"/>
   </a>
-  <!-- Streak (sequência de commits) -->
+
+  <!-- GitHub Streak embaixo -->
   <br><br>
   <a href="https://github.com/antoniov7">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=antoniov7&theme=cobalt&hide_border=false&background=002147&ring=00BFFF&fire=00BFFF&currStreakLabel=FFFFFF"/>
@@ -24,7 +25,7 @@
   <a href="mailto:antoniovitorio.7@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/✉️%20Outlook-%23005A9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
-  <a href="https://wa.me/5571999999999" target="_blank">
+  <a href="https://wa.me/5571984709085" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
 

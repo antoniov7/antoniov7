@@ -5,33 +5,36 @@
 
 Atualmente, estou **retornando para a área de programação** e **aprimorando minhas habilidades em desenvolvimento de software**.
 
+<h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
+
+<!-- Cards principais (lado a lado) -->
 <div align="center">
+  <a href="https://github.com/antoniov7">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=antoniov7&show_icons=true&theme=cobalt"/>
+  </a>
+  <a href="https://github.com/antoniov7">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniov7&layout=compact&langs_count=8&theme=cobalt"/>
+  </a>
+</div>
 
-  <!-- Container flex para stats lado a lado -->
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://github.com/antoniov7" style="margin: 0 10px;">
-      <img height="145em" src="https://github-readme-stats.vercel.app/api?username=antoniov7&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://github.com/antoniov7" style="margin: 0 10px;">
-      <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniov7&layout=compact&langs_count=16&theme=cobalt"/>
-    </a>
-  </div>
-
-  <!-- GitHub Streak embaixo -->
+<!-- Streak embaixo -->
+<div align="center">
   <br>
   <a href="https://github.com/antoniov7">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=antoniov7&theme=cobalt&hide_border=false&background=002147&ring=00BFFF&fire=00BFFF&currStreakLabel=FFFFFF"/>
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=antoniov7&theme=cobalt&hide_border=false&background=002147&ring=00BFFF&fire=00BFFF&currStreakLabel=FFFFFF"/>
   </a>
+</div>
 
-  <!-- Contatos -->
-  <br><br>
+<!-- Contatos -->
+<br>
+<div align="center">
   <a href="https://www.linkedin.com/in/antonio-vitorio/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:antoniovitorio.7@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/✉️%20Outlook-%23005A9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/✉️%20Outlook-%23005A9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
-
 </div>
 
 
@@ -79,11 +82,3 @@ Atuação em suporte técnico remoto e presencial, com foco em:
 
 ---
 
----
-
-<div align="center">
-  <a href="https://github.com/antoniov7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniov7&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniov7&layout=compact&langs_count=16&theme=cobalt"/>
-  </a>
-</div>
